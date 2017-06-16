@@ -1,1 +1,1 @@
-# pyrhin learning note
+# python learning note
